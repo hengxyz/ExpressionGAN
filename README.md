@@ -1,4 +1,4 @@
-# ExprGAN
+# ExprGAN (Python2.7-tensorflow1.6)
 Implementation of the AAAI 2018 oral paper: "ExprGAN: Facial Expression Editing with Controllable Expression Intensity", https://arxiv.org/pdf/1709.03842.pdf
 ![Fig1](image/ExpreGAN.png)
 The proposed method in the paper can also generate the expressions with different intensities. 
